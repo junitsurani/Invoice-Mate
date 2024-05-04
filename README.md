@@ -7,23 +7,26 @@ Invoice Mate is a Flutter-based mobile application designed to streamline the pr
 ### Splash Screen
 
 The splash screen welcomes users to Invoice Mate upon launching the app.<br><br>
+
 <img width="300" height="600" alt="immg" src="https://github.com/junitsurani/Invoice-Mate/assets/143919223/b4fa3014-d18a-4c59-affa-89f4f837e2ce">
 
 
 ### Bill Interface
+
+The bill interface allows users to fill in customer details such as name, mobile number, address, and date. Users can also specify products, unit prices, quantities, and view automatically calculated totals.<br><br>
+
 <img width="300" height="600" alt="immg" src="https://github.com/junitsurani/Invoice-Mate/assets/143919223/50fbad89-55b2-4a00-8266-dd0178fe5f06">
 <img width="300" height="600" alt="immg" src="https://github.com/junitsurani/Invoice-Mate/assets/143919223/91e1c677-5f83-4cb0-a9e6-4812cf904452">
 
-![Screenshot_20240504-180721](https://github.com/junitsurani/Invoice-Mate/assets/143919223/8587f91b-c39a-4598-9705-fa66fc828257)
 
 
-
-The bill interface allows users to fill in customer details such as name, mobile number, address, and date. Users can also specify products, unit prices, quantities, and view automatically calculated totals.
 
 ### PDF Generation
-<img width="300" height="600" alt="immg" src="https://github.com/junitsurani/Invoice-Mate/assets/143919223/50fbad89-55b2-4a00-8266-dd0178fe5f06">
 
-After filling out the bill details, users can generate a PDF invoice by clicking the top-right button. The app then presents options to share the PDF or download it for offline use.
+After filling out the bill details, users can generate a PDF invoice by clicking the top-right button. The app then presents options to share the PDF or download it for offline use.<br><br>
+
+<img width="300" height="600" alt="immg" src="https://github.com/junitsurani/Invoice-Mate/assets/143919223/8587f91b-c39a-4598-9705-fa66fc828257">
+
 
 ### Downloaded PDF
 

@@ -1,6 +1,6 @@
 # Invoice Mate
 
-Invoice Mate is a Flutter-based mobile application designed to streamline the process of generating and managing invoices. This repository contains the source code and documentation for the Invoice Mate project.
+Invoice Mate is a Flutter-based mobile application developed for a live client project aimed at streamlining the process of generating and managing invoices. Due to client confidentiality and authorization constraints, I am unable to share the source code for this project. However, below are screenshots of the application that provide an overview of its functionality and design. These snapshots offer a glimpse into the Invoice Mate application and its features.
 
 ## Screenshots
 

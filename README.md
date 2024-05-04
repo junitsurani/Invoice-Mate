@@ -32,7 +32,7 @@ After filling out the bill details, users can generate a PDF invoice by clicking
 
 The downloaded PDF invoice includes all the filled information in a structured format, ready for sharing or printing.<br><br>
 
-<img width="300" height="800" alt="immg" src="https://github.com/junitsurani/Invoice-Mate/assets/143919223/9165f565-a951-419c-8cfd-6446afbeb570">
+<img width="200" height="1000" alt="immg" src="https://github.com/junitsurani/Invoice-Mate/assets/143919223/9165f565-a951-419c-8cfd-6446afbeb570">
 
 
 ## Features
